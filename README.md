@@ -1,8 +1,8 @@
 
 # ISO Fits & Tolerances
 
-Inspired by a concept to dimensional precision and ISO fits
-learned in the "Fundamentals of Engineering Design" at TU-SOFIA!
+Inspired by a concept to dimensional precision and ISO fits.  
+Learned from the "Fundamentals of Engineering Design" at TU-SOFIA!
 
 - Desktop app
 - OOP approach
@@ -15,10 +15,9 @@ learned in the "Fundamentals of Engineering Design" at TU-SOFIA!
 * Python
 * Tkinter GUI library
 
-
 ## Overview
 
-![App Screenshot](https://github.com/georgievm/py-tkinter-iso-fits/blob/44884335702ae7e4f033be2a01ff9cb40cf4cd0f/readme-media/window.png)
+![App Screenshot](https://github.com/georgievm/py-tkinter-iso-fits/blob/6128159874ac437ab9481e3bf69eb48ab5ca1523/readme-media/window.png)
 ## Features :)
 
 - **Textbox** showing all about the current fit
@@ -31,41 +30,31 @@ learned in the "Fundamentals of Engineering Design" at TU-SOFIA!
 
 Different Graphs:
 
-![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/44884335702ae7e4f033be2a01ff9cb40cf4cd0f/readme-media/Fit_50mm_M7_e6.png)
-
-![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/44884335702ae7e4f033be2a01ff9cb40cf4cd0f/readme-media/Fit_50mm_M7_f5.png)
-
-![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/44884335702ae7e4f033be2a01ff9cb40cf4cd0f/readme-media/Fit_50mm_M7_g5.png)
-
-![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/44884335702ae7e4f033be2a01ff9cb40cf4cd0f/readme-media/Fit_50mm_M7_g7.png)
-
-![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/44884335702ae7e4f033be2a01ff9cb40cf4cd0f/readme-media/Fit_50mm_M7_h5.png)
-
-![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/44884335702ae7e4f033be2a01ff9cb40cf4cd0f/readme-media/Fit_50mm_M7_h7.png)
-
-![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/44884335702ae7e4f033be2a01ff9cb40cf4cd0f/readme-media/Fit_50mm_M7_h8.png)
-
-![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/44884335702ae7e4f033be2a01ff9cb40cf4cd0f/readme-media/Fit_50mm_M7_js5.png)
-
-![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/44884335702ae7e4f033be2a01ff9cb40cf4cd0f/readme-media/Fit_50mm_M7_k5.png)
+![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/6128159874ac437ab9481e3bf69eb48ab5ca1523/readme-media/Fit_50mm_M7_e6.png)
+![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/6128159874ac437ab9481e3bf69eb48ab5ca1523/readme-media/Fit_50mm_M7_f5.png)
+![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/6128159874ac437ab9481e3bf69eb48ab5ca1523/readme-media/Fit_50mm_M7_g5.png)
+![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/6128159874ac437ab9481e3bf69eb48ab5ca1523/readme-media/Fit_50mm_M7_g7.png)
+![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/6128159874ac437ab9481e3bf69eb48ab5ca1523/readme-media/Fit_50mm_M7_h5.png)
+![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/6128159874ac437ab9481e3bf69eb48ab5ca1523/readme-media/Fit_50mm_M7_h7.png)
+![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/6128159874ac437ab9481e3bf69eb48ab5ca1523/readme-media/Fit_50mm_M7_h8.png)
+![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/6128159874ac437ab9481e3bf69eb48ab5ca1523/readme-media/Fit_50mm_M7_js5.png)
+![graph](https://github.com/georgievm/py-tkinter-iso-fits/blob/6128159874ac437ab9481e3bf69eb48ab5ca1523/readme-media/Fit_50mm_M7_k5.png)
 
 Error messages:
 
-![err1](https://github.com/georgievm/py-tkinter-iso-fits/blob/44884335702ae7e4f033be2a01ff9cb40cf4cd0f/readme-media/err1.png)
-
-![err2](https://github.com/georgievm/py-tkinter-iso-fits/blob/44884335702ae7e4f033be2a01ff9cb40cf4cd0f/readme-media/err2.png)
-
-![err3](https://github.com/georgievm/py-tkinter-iso-fits/blob/44884335702ae7e4f033be2a01ff9cb40cf4cd0f/readme-media/err3.png)
+![err1](https://github.com/georgievm/py-tkinter-iso-fits/blob/6128159874ac437ab9481e3bf69eb48ab5ca1523/readme-media/err1.png)
+![err2](https://github.com/georgievm/py-tkinter-iso-fits/blob/6128159874ac437ab9481e3bf69eb48ab5ca1523/readme-media/err2.png)
+![err3](https://github.com/georgievm/py-tkinter-iso-fits/blob/6128159874ac437ab9481e3bf69eb48ab5ca1523/readme-media/err3.png)
 
 ## Favicon
 
 - Icon from https://flaticon.com
 
-![Icon](https://github.com/georgievm/py-tkinter-iso-fits/blob/44884335702ae7e4f033be2a01ff9cb40cf4cd0f/icon.ico)
+<img width="64" src="https://github.com/georgievm/py-tkinter-iso-fits/blob/6128159874ac437ab9481e3bf69eb48ab5ca1523/icon.ico" alt="favicon">
 
 ## Color Pallete
 
-<img width="200" src="https://github.com/georgievm/py-tkinter-iso-fits/blob/44884335702ae7e4f033be2a01ff9cb40cf4cd0f/color_palette.png" alt="color pallete">
+<img width="400" src="https://github.com/georgievm/py-tkinter-iso-fits/blob/6128159874ac437ab9481e3bf69eb48ab5ca1523/color_palette.png" alt="color pallete">
 
 ## 📝 License
 
