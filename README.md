@@ -1,14 +1,24 @@
 
 # ISO Fits & Tolerances
 
-Inspired by a concept to dimensional precision and ISO fits.  
-Learned from the "Fundamentals of Engineering Design" at TU-SOFIA!
+Calculation of fits according **ISO 286(-2)** standart.
 
-- Desktop app
+🔥 Inspired by the concept to "Dimensional precision and ISO fits".  
+Learned from the "Fundamentals of Engineering Design" lessons at 💪 TU-SOFIA!
+
 - OOP approach
 - Separate "Fit" class
 - **Unit test**
 - Reading data from **CSV files**
+
+Useful links:
+- 🔗 ["Engineering fit" on Wikipedia](https://en.wikipedia.org/wiki/Engineering_fit)
+
+- 📊 [Online Fit Calculator 1](https://www.pferd.com/us-en/service/fits-and-tolerances-calculator)
+- 📊 [Online Fit Calculator 2](https://www.mesys.ag/?page_id=1226)
+
+- 📄 [ISO Tolerances for Holes](https://www.tribology-abc.com/calculators/iso_holes.htm)
+- 📄 [ISO Tolerances for Shafts](https://www.tribology-abc.com/calculators/iso_shafts.htm)
 
 ## ✨ Technologies
 
