@@ -3,8 +3,8 @@
 
 Calculation of fits according **ISO 286(-2)** standart.
 
-🔥 Inspired by the concept to "Dimensional precision and ISO fits".  
-Learned from the "Fundamentals of Engineering Design" lessons at 💪 TU-SOFIA!
+🔥 Inspired by a concept to "Dimensional precision and ISO fits".  
+Learned from the "Fundamentals of Engineering Design" lessons at university.
 
 - OOP approach
 - Separate "Fit" class
